@@ -1,0 +1,9 @@
+C:\Users\Michelita\source\repos\ColaProcesos\ColaProcesos\bin\Debug\ColaProcesos.exe.config
+C:\Users\Michelita\source\repos\ColaProcesos\ColaProcesos\bin\Debug\ColaProcesos.exe
+C:\Users\Michelita\source\repos\ColaProcesos\ColaProcesos\bin\Debug\ColaProcesos.pdb
+C:\Users\Michelita\source\repos\ColaProcesos\ColaProcesos\obj\Debug\ColaProcesos.Form1.resources
+C:\Users\Michelita\source\repos\ColaProcesos\ColaProcesos\obj\Debug\ColaProcesos.Properties.Resources.resources
+C:\Users\Michelita\source\repos\ColaProcesos\ColaProcesos\obj\Debug\ColaProcesos.csproj.GenerateResource.Cache
+C:\Users\Michelita\source\repos\ColaProcesos\ColaProcesos\obj\Debug\ColaProcesos.csproj.CoreCompileInputs.cache
+C:\Users\Michelita\source\repos\ColaProcesos\ColaProcesos\obj\Debug\ColaProcesos.exe
+C:\Users\Michelita\source\repos\ColaProcesos\ColaProcesos\obj\Debug\ColaProcesos.pdb
